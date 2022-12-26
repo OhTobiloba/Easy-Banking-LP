@@ -1,0 +1,9 @@
+{
+    "editor.cursorStyle": "underline-thin",
+    "editor.cursorBlinking": "smooth",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.suggest.showSnippets": false,
+    "files.autoSave": "afterDelay"
+}
